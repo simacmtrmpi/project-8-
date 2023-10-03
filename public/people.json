@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/hMWk2jS/Health.png",
+        "title": "Clean water for children",
+        "description": "Access to clean water is a fundamental human right and a key determinant of public health. For children, clean water is especially crucial as it directly impacts their well-being, growth, and development. Lack of access to clean water can lead to waterborne diseases, malnutrition, and hindered educational opportunities. Therefore, ensuring clean water for children is essential for their survival and overall quality of life.",
+        "category": "Health",
+        "price": 99,
+        "color_category_bg": "#0052FF33",
+        "color_card_bg": "#0052FF26",
+        "color_text": "#0052FF"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/VmykvkB/Education.png",
+        "title": "Good Education",
+        "description": " A good education is a comprehensive and empowering experience that fosters intellectual, emotional, and social growth. It equips individuals with essential knowledge and skills, encourages curiosity and critical thinking, and promotes character development and global awareness. Inclusive and accessible to all, it prepares individuals to adapt to a changing world, engage in lifelong learning, and contribute positively to society. Ultimately, a good education empowers individuals to lead fulfilling lives, make informed decisions, and be responsible and compassionate citizens.",
+        "category":"Education",
+        "price": 49,
+        "color_category_bg": "#FF444A33",
+        "color_card_bg": "#FF444A26",
+        "color_text": "#FF444A"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/rw8srbb/Clothing.png",
+        "title": "Used Clothing Drive",
+        "description": "The primary goal of a Used Clothing Drive is to collect gently used clothing items from individuals and organizations and then redistribute them to individuals or communities who may not have easy access to clothing, often due to economic hardship, natural disasters, or other challenging circumstances.  It serves as a meaningful way for individuals and communities to make a positive impact on the lives of others while addressing environmental concerns.",
+        "category": "Clothing",
+        "price": 79,
+        "color_category_bg": "#79C23F33",
+        "color_card_bg": "#79C23F26",
+        "color_text": "#79C23F"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/pLSgbMX/Food.png",
+        "title": "Better Food for Everyone",
+        "description": "Food is an essential element of human existence, providing sustenance, nutrition, and pleasure. It encompasses a vast array of flavors, textures, and cultural traditions from around the world. Beyond its nutritional significance, food carries deep cultural and social importance, serving as a bridge between people, communities, and generations. Shared meals create bonds and foster connections, whether during family gatherings, cultural celebrations, or simple dinners with friends. As a global commodity, food reflects international trade and cooperation, bringing diverse culinary experiences to our tables. ",
+        "category": "Food",
+        "price": 599,
+        "color_category_bg": "#F8714733",
+        "color_card_bg": "#F8714726",
+        "color_text": "#F87147"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/pLSgbMX/Food.png",
+        "title": "Better Food for Everyone",
+        "description": "Food is an essential element of human existence, providing sustenance, nutrition, and pleasure. It encompasses a vast array of flavors, textures, and cultural traditions from around the world. Beyond its nutritional significance, food carries deep cultural and social importance, serving as a bridge between people, communities, and generations. Shared meals create bonds and foster connections, whether during family gatherings, cultural celebrations, or simple dinners with friends. As a global commodity, food reflects international trade and cooperation, bringing diverse culinary experiences to our tables. ",
+        "category": "Food",
+        "price": 149,
+        "color_category_bg": "#F8714733",
+        "color_card_bg": "#F8714726",
+        "color_text": "#F87147"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/rw8srbb/Clothing.png",
+        "title": "Used Clothing Drive",
+        "description": "The primary goal of a Used Clothing Drive is to collect gently used clothing items from individuals and organizations and then redistribute them to individuals or communities who may not have easy access to clothing, often due to economic hardship, natural disasters, or other challenging circumstances.  It serves as a meaningful way for individuals and communities to make a positive impact on the lives of others while addressing environmental concerns.",
+        "category": "Clothing",
+        "price": 69,
+        "color_category_bg": "#79C23F33",
+        "color_card_bg": "#79C23F26",
+        "color_text": "#79C23F"
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/VmykvkB/Education.png",
+        "title": "Good Education",
+        "description": "A good education is a comprehensive and empowering experience that fosters intellectual, emotional, and social growth. It equips individuals with essential knowledge and skills, encourages curiosity and critical thinking, and promotes character development and global awareness. Inclusive and accessible to all, it prepares individuals to adapt to a changing world, engage in lifelong learning, and contribute positively to society. Ultimately, a good education empowers individuals to lead fulfilling lives, make informed decisions, and be responsible and compassionate citizens.",
+        "category": "Education",
+        "price": 89,
+        "color_category_bg": "#FF444A33",
+        "color_card_bg": "#FF444A26",
+        "color_text": "#FF444A"
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/hMWk2jS/Health.png",
+        "title": "Clean water for children",
+        "description": "Access to clean water is a fundamental human right and a key determinant of public health. For children, clean water is especially crucial as it directly impacts their well-being, growth, and development. Lack of access to clean water can lead to waterborne diseases, malnutrition, and hindered educational opportunities. Therefore, ensuring clean water for children is essential for their survival and overall quality of life.",
+        "category":"Health",
+        "price": 199,
+        "color_category_bg": "#0052FF33",
+        "color_card_bg": "#0052FF26",
+        "color_text": "#0052FF"
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/hMWk2jS/Health.png",
+        "title": "Clean water for children",
+        "description": "Access to clean water is a fundamental human right and a key determinant of public health. For children, clean water is especially crucial as it directly impacts their well-being, growth, and development. Lack of access to clean water can lead to waterborne diseases, malnutrition, and hindered educational opportunities. Therefore, ensuring clean water for children is essential for their survival and overall quality of life.",
+        "category": "Health",
+        "price": 12,
+        "color_category_bg": "#0052FF33",
+        "color_card_bg": "#0052FF26",
+        "color_text": "#0052FF"
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co/VmykvkB/Education.png",
+        "title": "Good Education",
+        "description": "A good education is a comprehensive and empowering experience that fosters intellectual, emotional, and social growth. It equips individuals with essential knowledge and skills, encourages curiosity and critical thinking, and promotes character development and global awareness. Inclusive and accessible to all, it prepares individuals to adapt to a changing world, engage in lifelong learning, and contribute positively to society. Ultimately, a good education empowers individuals to lead fulfilling lives, make informed decisions, and be responsible and compassionate citizens.",
+        "category": "Education",
+        "price": 59,
+        "color_category_bg": "#FF444A33",
+        "color_card_bg": "#FF444A26",
+        "color_text": "#FF444A"
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co/rw8srbb/Clothing.png",
+        "title": "Used Clothing Drive",
+        "description": "The primary goal of a Used Clothing Drive is to collect gently used clothing items from individuals and organizations and then redistribute them to individuals or communities who may not have easy access to clothing, often due to economic hardship, natural disasters, or other challenging circumstances.  It serves as a meaningful way for individuals and communities to make a positive impact on the lives of others while addressing environmental concerns.",
+        "category": "Clothing",
+        "price": 39,
+        "color_category_bg": "#79C23F33",
+        "color_card_bg": "#79C23F26",
+        "color_text": "#79C23F"
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co/pLSgbMX/Food.png",
+        "title": "Better Food for Everyone",
+        "description": "Food is an essential element of human existence, providing sustenance, nutrition, and pleasure. It encompasses a vast array of flavors, textures, and cultural traditions from around the world. Beyond its nutritional significance, food carries deep cultural and social importance, serving as a bridge between people, communities, and generations. Shared meals create bonds and foster connections, whether during family gatherings, cultural celebrations, or simple dinners with friends. As a global commodity, food reflects international trade and cooperation, bringing diverse culinary experiences to our tables. ",
+        "category": "Food",
+        "price": 79,
+        "color_category_bg": "#F8714733",
+        "color_card_bg": "#F8714726",
+        "color_text": "#F87147"
+    }
+]
